@@ -23,5 +23,5 @@ export const handleError = (error: unknown) => {
   }
 };
 
-//* GE IMAGE SIZE
+//* GET IMAGE SIZE
 export type AspectRatioKey = keyof typeof aspectRatioOptions;
